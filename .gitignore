@@ -11,3 +11,15 @@
 *glxew.h
 *wglew.h
 x64/
+*.db
+*.vsidx
+*.suo
+*.ipch
+*.tlog
+*.obj
+*.log
+*.pdb
+*.idb
+*.ilk
+*.recipe
+*.lock
